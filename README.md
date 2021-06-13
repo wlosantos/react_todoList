@@ -18,5 +18,4 @@ Cursos:
 + Curso de JavaScript e TypeScript do básico ao avançado 2021 (Luiz Otávio Miranda- Udemy)
 
 ### Video:
-<br />
 + https://www.youtube.com/watch?v=E1E08i2UJGI
