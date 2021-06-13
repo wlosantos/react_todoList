@@ -10,12 +10,12 @@ o uso dos props.
 
 <br />
 <hr />
-### Creditos:
+### Creditos
 Cursos: 
 <br />
 + Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO! (Cod3r - Udemy)
 <br />
 + Curso de JavaScript e TypeScript do básico ao avançado 2021 (Luiz Otávio Miranda- Udemy)
 
-### Video:
+### Video
 + https://www.youtube.com/watch?v=E1E08i2UJGI
