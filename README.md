@@ -10,7 +10,8 @@ o uso dos props.
 
 <br />
 <hr />
-### Creditos
+### Créditos
+14
 Cursos: 
 <br />
 + Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO! (Cod3r - Udemy)
